@@ -11,3 +11,4 @@ lfg
 nice
 abandon
 to the moon
+lingo
