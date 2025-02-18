@@ -25,3 +25,4 @@ black pass
 zentry
 OG_Labs
 succinet
+nexus
