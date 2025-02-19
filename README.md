@@ -26,3 +26,4 @@ zentry
 OG_Labs
 succinet
 nexus
+MONAD
