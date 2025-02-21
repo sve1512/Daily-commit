@@ -28,3 +28,4 @@ succinet
 nexus
 MONAD
 Beyond
+PIXIZ
