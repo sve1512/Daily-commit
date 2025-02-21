@@ -13,7 +13,7 @@ abandon
 to the moon
 lingo
 movement
-story protocol
+story protocol 400
 unich
 Layer Edge
 sentient agi
