@@ -54,3 +54,4 @@ FOURTEEN
 seventeen
  eighteen
  nineteen
+twenty
